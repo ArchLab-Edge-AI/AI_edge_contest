@@ -1,0 +1,7 @@
+{
+  "target": "DPUv2",
+  "lib": "libvart_dpu.so",
+  "filename": "dpu_tinyyolov3.elf",
+  "kernel": [ "tinyyolov3" ],
+  "config_file": "yolov3-tiny.prototxt"
+}
